@@ -1,0 +1,3 @@
+Terra T026 acceptance fixture A
+Repository: OlafTheGreat/terra-test-a
+Visibility: public
